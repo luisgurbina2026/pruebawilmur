@@ -1,8 +1,7 @@
-﻿{
+{
   "cleanUrls": true,
   "trailingSlash": false,
   "rewrites": [
-    { "source": "/", "destination": "/home/index.html" },
     { "source": "/about", "destination": "/about/about.html" },
     { "source": "/services", "destination": "/servic/services.html" },
     { "source": "/kitchen-remodeling", "destination": "/servic/kitchen-remodeling.html" },
@@ -13,6 +12,6 @@
     { "source": "/chicago", "destination": "/areas/chicago.html" },
     { "source": "/naperville", "destination": "/areas/naperville.html" },
     { "source": "/evanston", "destination": "/areas/evanston.html" },
-    { "source": "/estimate", "destination": "/free estimate/estimate.html" }
+    { "source": "/estimate", "destination": "/free-estimate/estimate.html" }
   ]
 }
